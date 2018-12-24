@@ -1,3 +1,7 @@
+# This problem is on hacker-rank site. I have solved this code by the help of internet. At first I have studied the theory and apply in code.
+
+
+
 if __name__ == '__main__':
     n = int(input())
 for n in range(0,n):
